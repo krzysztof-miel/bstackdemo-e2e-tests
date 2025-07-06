@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "address": "Test Adress",
+    "state": "Test State",
+    "postalCode": "12345"
+  },
+  "invalidUser": {
+    "firstName": "Anna",
+    "lastName": "Nowak",
+    "address": "Test Adress"
+  },
+  "userToLoginViaUI": {
+    "username": "demouser",
+    "password": "testingisfun99"
+  }
+}
